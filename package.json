@@ -1,0 +1,40 @@
+{
+  "_from": "@only_you/fast-code@^1.0.47",
+  "_id": "@only_you/fast-code@1.0.47",
+  "_inBundle": false,
+  "_integrity": "sha512-klTMGGhrROuhb/xEG2L6l+oFe98/AA2H49i1KQpsmQ5uItypRy8CXZQStkK1A1h6xzoW7htpv67cryW/t68qdg==",
+  "_location": "/@only_you/fast-code",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@only_you/fast-code@^1.0.47",
+    "name": "@only_you/fast-code",
+    "escapedName": "@only_you%2ffast-code",
+    "scope": "@only_you",
+    "rawSpec": "^1.0.47",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.47"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmmirror.com/@only_you/fast-code/-/fast-code-1.0.47.tgz",
+  "_shasum": "d80cb51cab3afe0c1a95200ab2c30af0422db8ca",
+  "_spec": "@only_you/fast-code@^1.0.47",
+  "_where": "F:\\工作\\121-store\\campussystem",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "@only_you/fast-code",
+  "peerDependencies": {
+    "element-ui": "^2.15.13"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.58"
+}
